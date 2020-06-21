@@ -1,0 +1,36 @@
+{
+    "name" : "Kanav Khera",
+    "image" : "https://scontent.fjai5-1.fna.fbcdn.net/v/t1.0-9/70926852_1286331871561444_2371366368856506368_o.jpg?_nc_cat=101&_nc_sid=09cbfe&_nc_oc=AQk7ZWEnlTe1wBINGB6cKAg0ZnCBOx50JYttINLlvITP-in9FyunSYF7aCtzE8oB07I&_nc_ht=scontent.fjai5-1.fna&oh=5c5ed07662fb37987d288bc2897b866c&oe=5F05A50E",
+
+    "image1" : "https://ak.picdn.net/shutterstock/videos/23138476/thumb/1.jpg",
+
+    "des" : "  Hola!,I am a Front-End  Developer or I say, in a process to be a developer .I am learning Html and Css since 10th grade.I am also good at Javascript.My hobbies are to play sports, riding bikes,driving cars  ,they make me feel my self . ",
+    "social": [
+        {
+            "name": "facebook|",
+            
+            "link": "http://www.facebook.com"
+        },
+        {
+            "name": "Linkedin|",
+            "link": "http://www.linkedin.com"
+        },
+        {
+            "name": "Instagram",
+            "link": "http://www.instagram.com"
+        }
+    ],
+    "edu":[
+        {
+            "orgname": " Degree: Chandigarh group of colleges",
+            "year" : "2022"
+        },{
+            "orgname": " Schooling XIIth: Dyal Singh Public School",
+            "year" : "2018"
+        },
+        {
+            "orgname": " Schooling Xth : Dyal Singh Public School",
+            "year" : "2016"
+        }
+    ]
+}

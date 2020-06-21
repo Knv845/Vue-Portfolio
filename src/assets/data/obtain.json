@@ -1,0 +1,19 @@
+{
+     "image": "https://thumbs.dreamstime.com/z/figure-icon-graph-human-achievements-visualizing-growth-income-economy-employee-site-project-infographics-153556316.jpg",
+    
+
+   "ach" : [
+       
+   {"category" : "Sports",
+    "prizes" : "8 Medals and 5 Trophies",
+    "des": "Got my first medal at the age of 12  and then the whole journey started . Currently I am gold medalist in heavyweight category of my college weightlifting team. I was bronze medalist in national teakwondo championship held in 2017 at Varanasi. It is hoobie to paly sports and I am hopping to play biiger i future "
+   },
+
+   {
+    "category" : "Academis",
+    "prizes": "none",
+    "des": "Now a days I am pursuing B-Tech from Mohali and also gaining some skills in web devlopment and looking forward for a bright future"
+   }
+ ]
+
+}
